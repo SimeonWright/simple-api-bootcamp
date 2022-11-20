@@ -14,9 +14,5 @@
   - (1 to 5 no 3) I feel good about my code
   - Anything specific on which you want feedback!
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+![Screen Shot 2022-11-20 at 1 55 25 PM](https://user-images.githubusercontent.com/113324446/202920794-4b2cca80-a3ca-40b5-9adf-b56ff5275f85.png)
+
